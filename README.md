@@ -51,9 +51,27 @@ Explore my repositories and experiments:
 
 ### 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffersonCandidos&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonCandidos&layout=compact&theme=tokyonight&hide_border=true)
+### 📊 GitHub Overview
+
+<p align="center">
+  <a href="https://github.com/JeffersonCandidos?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-16D6A0?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/J2FX">
+    <img src="https://img.shields.io/badge/J2FX-Tecnologia-142A2B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+**Areas of interest**
+- Backend Engineering & Java
+- Software Architecture
+- Cloud Infrastructure & AWS
+- Frontend Development
+- Automation & Digital Products
+
+Explore my repositories to see projects, experiments and technologies I'm working with.
+
 
 ### 📫 Connect with Me
 
