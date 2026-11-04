@@ -49,9 +49,6 @@ Explore my repositories and experiments:
 - [J2FX Tecnologia](https://github.com/J2FX)
 - [J2FX Tech Solutions](https://github.com/J2FX/j2fx-tech-solutions)
 
-### 📈 GitHub Activity
-
-
 ### 📊 GitHub Overview
 
 <p align="center">
@@ -71,7 +68,6 @@ Explore my repositories and experiments:
 - Automation & Digital Products
 
 Explore my repositories to see projects, experiments and technologies I'm working with.
-
 
 ### 📫 Connect with Me
 
